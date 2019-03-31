@@ -15,6 +15,7 @@ Hyper Text Transfer Protocol
 * Payload (body/data) can be anything as long as it is defined in the header(so in the header you can define what kind of text will be send, a html, javascript, img etc)  
 ### REST
 What is rest? Rest stands for Representational State Transfer. 
+Postman for example is a REST interface software to see the states of a application
 * Use HTTP methods explicitly
 * HTTP is usually the underlying protocol
 * Caching Policy for responses (client can decide to keep it in their cache memory)
@@ -27,3 +28,6 @@ Application Programming Interface
 * Where requests should be made
 * REST provides guidelines
 * CRUD operations (Create Read Update Delete) 
+
+### Node green
+Go to https://node.green for a list of things that node supports
