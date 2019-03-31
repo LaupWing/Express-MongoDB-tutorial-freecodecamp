@@ -31,3 +31,6 @@ Application Programming Interface
 
 ### Node green
 Go to https://node.green for a list of things that node supports
+
+### Middleware
+Middlewares are functions that execute serially in the get request. Its like an array of functions when a request comes in.
